@@ -1,6 +1,8 @@
 # MovieBot
 Discord Bot coded in discord.js (a Node.js library) which uses the OMDb API to fetch data from IMDb.
 The user inputs a title on commmand and it sends an API call to the OMDb API which searches for the entry in the IMDb databases, and then it outputs fields of data such as the description, release date, genre, directors, writers, actors and poster.
+# Invite MovieBot to your server
+[Get it here](https://top.gg/bot/1047291483683815514)
 # Commands
 %movie [title] - search IMDb for a movie
 %show [title] - search IMDb for a show
